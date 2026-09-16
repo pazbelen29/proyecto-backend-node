@@ -1,3 +1,12 @@
 [2026-09-16 22:23:49] Muestra acceso a la ruta: GET /
 [2026-09-16 22:23:49] Muestra acceso a la ruta: GET /favicon.ico
 [2026-09-16 22:25:01] Muestra acceso a la ruta: GET /status
+[2026-09-16 22:56:25] Muestra acceso a la ruta: GET /
+[2026-09-16 23:00:17] Muestra acceso a la ruta: GET /
+[2026-09-16 23:00:19] Muestra acceso a la ruta: GET /styles.css
+[2026-09-16 23:00:19] Muestra acceso a la ruta: GET /script.js
+[2026-09-16 23:02:24] Muestra acceso a la ruta: GET /status
+[2026-09-16 00:31:09] Muestra acceso a la ruta: GET /api/usuarios
+[2026-09-16 00:33:56] Muestra acceso a la ruta: POST /api/usuarios
+[2026-09-16 00:34:18] Muestra acceso a la ruta: POST /api/usuarios/transaccion
+[2026-09-16 00:34:32] Muestra acceso a la ruta: GET /api/usuarios
